@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Sintony');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+.sidebar{
+    height: 100%;
+    width: 225px;
+    position: fixed;
+    background-color: #455a64;
+    float: left;
+    z-index: 1;
+}
+
+.logo{
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    /* font-family: 'Josefin Sans', sans-serif; */
+    font-family: 'Pacifico', cursive;
+}
+
+.side-link{
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 16px;
+    color: rgb(199, 198, 198);
+    padding-left: 40px; 
+    font-size: 16px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.side-link a:hover{
+    text-decoration: none;
+}
+
+.selected{
+    color: #fff;
+}
+
+.link-style{
+    padding-left: 19%;
+    color: rgb(199, 198, 198);
+    font-size: 16px;
+}
+
+.link-style:hover{
+    color: #fff;
+}
+
+.menu{
+    background-color: #78909c;
+    padding-left: 40px;
+    color: #eceff1;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.dashboard-link{
+    color: rgb(199, 198, 198);
+}
+
+.dashboard-link:hover{
+    color: #fff;
+}
+
+.icon-judul{
+    margin-right: 15px;
+}
+
+.selected-link{
+    /* background-color: #607d8b; */
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+    /* border-left:Barang 3px solid #ffab00; */
+}
+
+.judul{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #6e6e6e;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.breadcumb-sub{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #6e6e6e;
+    margin-bottom: 30px;
+    float: right;
+    padding-top: 20px;
+}
+
+.sub-judul{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    color: #6e6e6e;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 14px;
+}
+
+.kontent{
+    padding-top: 20px;
+    padding-left: 250px;
+}
+
+.tambah{
+    width: 200px;
+    height: 20px;
+}
+
+.btn{
+    padding: 3px 10px 2px 10px;
+}
+
+body{
+    margin: 0px;
+}
+
+.tabel-data{
+    /* box-shadow: 0px 1px 2px 0px #455a64;
+    border: 1px solid rgb(190, 190, 190); */
+}
+
+.isi-tambah{
+    padding: 10px 10px 10px 10px;
+}
+
+.welcome-content{
+    margin-top: 2%;
+}
+
+.welcome-text{
+    font-family: 'Sintony', sans-serif;
+}
+
+.judule{
+    margin-top: 7%;
+    font-family: 'Pacifico', cursive;
+}
+
+.judule b{
+    color: #ffab00
+}
+
+.form-login{
+    width: 350px;
+    padding: 25px;
+    margin-top: 15%;
+    /* border: 1px solid black; */
+}
