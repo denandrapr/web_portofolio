@@ -1,2 +1,2 @@
 # web_portofolio
-my portofolio by:ssembara
+my portofolio by:Sebastianus Sembara
